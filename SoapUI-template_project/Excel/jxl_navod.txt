@@ -1,0 +1,4 @@
+If you want to work with excel in SoapUI, it is necessary to add jxl library.
+
+1. Download it from here: http://www.java2s.com/Code/Jar/j/Downloadjxl26jar.htm
+2. unzip and move file "jxl-2.6.jar" to your SoapUI /bin/ext directory (e.g. SmartBear/SoapUI-5.4.0/bin/ext)
